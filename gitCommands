@@ -1,0 +1,11 @@
+1)git clone "ssh path from github" (cloning code from github)
+2)ls
+3)cd  'StartInn Project'/
+4)ls
+5)cd Startinn-DevOps/
+6)git checkout Dev
+7)if you make any changes in code then do-> git status
+8)git add  .
+9)git status
+10)git commit -m "Added fiscal dates"
+11)git push origin Dev
